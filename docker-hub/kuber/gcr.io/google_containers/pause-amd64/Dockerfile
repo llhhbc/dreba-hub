@@ -1,2 +1,2 @@
-from gcr.io/google_containers/pause-amd64
-MAINTAINER llh_dreba
+from gcr.io/google_containers/pause-amd64:3.0
+
